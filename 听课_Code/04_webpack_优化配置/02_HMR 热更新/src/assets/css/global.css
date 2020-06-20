@@ -1,0 +1,18 @@
+.box1 {
+  background-color: rgb(139, 142, 143);
+}
+
+.box2 {
+  background-color: rgb(28, 31, 32);
+}
+
+.box3 {
+  background-color: rgb(68, 114, 133);
+}
+
+.box4 {
+  background-color: wheat;
+  height: 200px;
+  width: 200px;
+  background: url('../img/angular.jpg');
+}

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,function(n,o,l){l.e(2).then(l.bind(null,0)).then(({mul:n,count:o})=>{console.log(n(2,5))}).catch(()=>{console.log("文件加载失败~")}),l.e(2).then(l.bind(null,0)).then(({mul:n,count:o})=>{console.log(n)},n=>{console.log(n)})}],[[1,1]]]);

@@ -1,0 +1,14 @@
+body,
+html {
+  background-color: skyblue;
+  height: 100%;
+}
+
+.box1 {
+  display: flex;
+  position: sticky;
+  height: 300px;
+  width: 200px;
+  background-color: wheat;
+  background: url(../img/c2f2c28284.png);
+}

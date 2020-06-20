@@ -1,0 +1,6 @@
+body,
+html {
+  background-color: saddlebrown;
+  display: flex;
+  position: sticky;
+}

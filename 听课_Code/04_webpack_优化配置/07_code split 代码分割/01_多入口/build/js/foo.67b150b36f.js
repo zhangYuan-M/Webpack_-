@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{2:function(o,n){console.log("foo函数")}},[[2,2]]]);

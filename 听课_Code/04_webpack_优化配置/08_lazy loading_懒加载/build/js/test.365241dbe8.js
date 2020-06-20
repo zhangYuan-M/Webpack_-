@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(n,o,s){"use strict";function t(){console.log("tets 中的 mul 函数")}s.r(o),s.d(o,"mul",(function(){return t})),console.log("test.js文件加载了")}]]);
